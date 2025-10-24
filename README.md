@@ -4,20 +4,17 @@
 - 🌱 I’m currently learning **Next.js** and **TypeScript**  
 - 💻 I work with **React.js**, **Tailwind CSS**, **Redux**, and **REST APIs**  
 - 🧠 Interested in **building scalable and responsive UIs**  
-- 📫 How to reach me: [your_email@gmail.com](mailto:your_email@gmail.com)  
+- 📫 How to reach me: [your_email@gmail.com](suriyaoffical2797@gmail.com)  
 - ⚡ Fun fact: I love solving frontend challenges & optimizing performance!  
 
 ---
 
 ### 🛠️ Tech Stack  
-React.js | JavaScript (ES6+) | HTML | CSS | Tailwind | Redux | Git | REST API  
+React.js | JavaScript (ES6+) | HTML | CSS | Tailwind | Redux | Git | REST API|AXIOS|Zustand  
 
-### secondary Skills 
+### Secondary Skills 
 Backend-Node.js,express.js,MongooDB
 
 ---
 
-### 📊 GitHub Stats  
-![Suriya’s GitHub stats](https://github-readme-stats.vercel.app/api?username=**YourUsername**&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**YourUsername**&layout=compact&theme=radical)
